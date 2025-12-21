@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm myooken 👋
 
-<!--
-**myooken/myooken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📦 Open Source Projects
 
-Here are some ideas to get you started:
+### @myooken/license-output
+CLI tool to generate THIRD-PARTY-LICENSE files from `node_modules`.
+- Supports missing license detection
+- Review-friendly output
+- Designed for CI usage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 npm: https://www.npmjs.com/~myooken
+![npm](https://img.shields.io/npm/v/@myooken/license-output)
+![license](https://img.shields.io/npm/l/@myooken/license-output)
+
+Simple and deterministic license collector for Node.js projects.
+
+👉 github: https://github.com/myooken/collect-node-modules-licenses
+
+## 🔗 Links
+- npm: https://www.npmjs.com/~myooken
+- GitHub: https://github.com/myooken
+- X: https://x.com/_myooken
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myooken)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myooken)
