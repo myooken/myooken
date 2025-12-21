@@ -1,7 +1,5 @@
 # Hi, I'm myooken 👋
 
-## 📦 Open Source Projects
-
 ### @myooken/license-output
 CLI tool to generate THIRD-PARTY-LICENSE files from `node_modules`.
 - Supports missing license detection
@@ -21,6 +19,5 @@ Simple and deterministic license collector for Node.js projects.
 - GitHub: https://github.com/myooken
 - X: https://x.com/_myooken
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myooken)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myooken)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myooken)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myooken) -->
