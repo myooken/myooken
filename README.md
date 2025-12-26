@@ -10,7 +10,6 @@ CLI tool to generate THIRD-PARTY-LICENSE files from `node_modules`.
 
 https://www.npmjs.com/package/@myooken/license-output
 
-![npm](https://img.shields.io/npm/v/@myooken/license-output)
 ![license](https://img.shields.io/npm/l/@myooken/license-output)
 [![npm version](https://img.shields.io/npm/v/@myooken/license-output.svg)](https://www.npmjs.com/package/@myooken/license-output)
 [![npm downloads](https://img.shields.io/npm/dm/@myooken/license-output.svg)](https://www.npmjs.com/package/@myooken/license-output)
